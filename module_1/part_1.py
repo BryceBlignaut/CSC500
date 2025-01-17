@@ -3,12 +3,12 @@
 # Code for Part 1:
 print("Addition and Subtraction Program")
 print()
-num1 = float(input("Enter a number: "))
-num2 = float(input("Enter a second number: "))
+number1 = float(input("Enter a number: "))
+number2 = float(input("Enter a second number: "))
 
 # Add and subtract numbers
-addition = num1 + num2
-subtraction = num1 - num2
+addition = number1 + number2
+subtraction = number1 - number2
 
 #Print results
 print("The result of the addition is:", addition)
