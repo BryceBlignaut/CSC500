@@ -23,7 +23,7 @@ item1 = ItemToPurchase(name1, price1, quantity1)
 
 print()
 
-# Prompt user for name, price, and quantity inputs (Item 1)
+# Prompt user for name, price, and quantity inputs (Item 2)
 print("Item 2")
 name2 = input("Enter the item name: ")
 price2 = float(input("Enter the item price: "))
