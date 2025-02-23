@@ -10,7 +10,7 @@ class ItemToPurchase:
         self.quantity = quantity
         self.description = description
 
-# Initialize the ItemToPurchase class and create the add_item, remove_item, modify_item, get_num_items_in_cart, get_cost_of_cart, print_total, and print_descriptions functions
+# Initialize the ShoppingCart class and create the add_item, remove_item, modify_item, get_num_items_in_cart, get_cost_of_cart, print_total, and print_descriptions functions
 
 class ShoppingCart:
     def __init__(self, customer_name="none", current_date="January 1, 2020"):
